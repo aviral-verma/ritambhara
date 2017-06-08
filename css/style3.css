@@ -1408,4 +1408,18 @@ h1, h2, h3, h4, h5, h6 {
   animation-fill-mode: both;
 }
 
+
+/*new addition*/
+#fh5co-home .text-inner h1 {
+  font-family: Amita;
+  font-size: 100px;
+}
+
+@media (max-width: 665px) {
+  #fh5co-home .text-inner h1 {
+    font-size: 12vmin;
+  }
+}
+
+
 /*# sourceMappingURL=style3.css.map */
